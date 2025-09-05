@@ -136,45 +136,45 @@ departmental info.
 
 ### 1. Gender Balance in Leadership
 
-**Insight**: Senior and executive management positions are dominated by men, while women are concentrated in junior roles.
+**Insight**: Women represent only 41% of the workforce, and their presence drops significantly at senior and executive levels.
 
-**Recommendation**: Introduce mentorship programs, leadership development training, and sponsorship initiatives for women to prepare them for senior roles. Consider reviewing promotion criteria to ensure fairness and transparency.
+**Recommendation**: Set measurable diversity targets (e.g., “increase women in leadership to 45% by FY25”) and implement leadership development programs to strengthen the pipeline for women in higher roles.
 
 ### 2. Hiring Diversity
 
-**Insight**: Hiring shows a close balance (51.5% women, 48.5% men) overall, but some departments (e.g., Operations, Sales & Marketing) still display male dominance.
+**Insight**: Hiring in FY20 was nearly balanced (51.5% women vs. 48.5% men), showing progress toward inclusive recruitment. However, certain departments (e.g., Operations, Sales & Marketing) still skew male.
 
-**Recommendation**: Adopt department-specific hiring targets to achieve balanced representation. Leverage blind recruitment processes to reduce bias in early-stage candidate screening.
+**Recommendation**: Continue balanced recruitment strategies, but introduce department-level hiring goals to correct localized gender imbalances.
 
 ### 3. Promotion Disparities
 
-**Insight**: Promotion rates favor men (64.7% of promoted employees were male). This highlights potential barriers for women advancing beyond mid-level positions.
+**Insight**: Of 51 promotions, only 35% went to women while men received 65%. This indicates a barrier for women advancing beyond mid-level positions.
 
-**Recommendation**: Implement career path planning and performance evaluation workshops. Track promotion metrics annually by gender and department to ensure equity.
+**Recommendation**: Standardize promotion criteria, ensure transparent career progression, and adopt mentorship/sponsorship programs to help women move into management and senior roles.
 
 ### 4. Turnover Analysis
 
-**Insight**: Overall turnover rate is ~9.4%, with women showing a slightly higher turnover percentage (10.24%) than men (8.81%). Many leavers were from Operations and Sales & Marketing.
+**Insight**: Overall turnover is 9.4%, with women’s turnover higher (10.24%) than men’s (8.81%).
 
-**Recommendation**: Conduct exit interviews to identify department-specific issues. Improve employee engagement by offering flexible work arrangements, recognition programs, and career growth opportunities. Address high turnover in Operations and Sales through workload management and employee support programs.
+**Recommendation**: Address retention challenges with flexible work options, recognition programs, and targeted engagement surveys. For high-turnover departments, investigate causes (workload, culture, management style) and design tailored retention strategies.
 
 ### 5. Performance Ratings
 
-**Insight**: Performance ratings are nearly equal between genders (Women: 2.42, Men: 2.41), suggesting unbiased evaluation. However, overall ratings indicate a moderate performance level (2.4/4).
+**Insight**: Performance scores are nearly equal by gender (2.42 vs. 2.41), suggesting unbiased evaluation. However, the overall average (2.41/4) indicates room for improvement in performance culture.
 
-**Recommendation**: Introduce continuous performance feedback systems instead of annual reviews. Provide training, coaching, and recognition programs to improve average ratings.
+**Recommendation**: Replace annual reviews with continuous feedback systems. Offer training and coaching to raise performance standards while maintaining fairness.
 
 ### 6. Departmental Gaps
 
-**Insight**: Operations and Sales & Marketing departments not only have the highest turnover, but also show lower female representation in higher-level roles.
+**Insight**: Operations and Sales & Marketing dominate in headcount but also experience higher turnover and lower female representation at senior levels.
 
-**Recommendation**: HR should prioritize talent retention and inclusivity programs in these departments. Encourage internal mobility so employees can transition into roles better suited to their skills.
+**Recommendation**: Prioritize inclusivity programs, cross-functional training, and internal mobility opportunities within these departments to retain talent and diversify leadership pipelines.
 
 ### 7. Strategic Inclusion Goals
 
-**Insight**: While hiring balance is improving, promotion and leadership gaps prevent long-term equality.
+**Insight**: Hiring is approaching parity, but promotion disparities and leadership gaps remain critical challenges.
 
-**Recommendation**: Set measurable Diversity & Inclusion goals, such as “40% women in management by FY25,” and track them using dashboards. Report progress transparently to leadership and employees.
+**Recommendation**: Develop a long-term Diversity & Inclusion roadmap with clear KPIs, including targets for leadership balance, promotion equity, and reduced gender turnover gaps. Report progress transparently in annual HR updates.
 
 ------------------------------------------------------------------------
 
@@ -185,10 +185,10 @@ Here](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTljYjMtZTc4NC00YzJlLThkZTktMzk
 
 ### Dashboard Screenshots:
 
-![Diversity Overview](Images/1%20-%20Overview.png)\
-![Hiring Trends](Images/2%20-%20Hiring.png)\
-![Promotion Analysis](Images/3%20-%20Promotion.png)\
-![Turnover & Performance](Images/4%20-%20Perfomance%20and%20Turnover.png)
+![Diversity Overview](Images/01.%20Overview.png)\
+![Hiring Trends](Images/02.%20Hiring.png)\
+![Promotion Analysis](Images/03.%20Promotion.png)\
+![Turnover & Performance](Images/04.%20Turnover%20%26%20performance.png)
 
 ------------------------------------------------------------------------
 
