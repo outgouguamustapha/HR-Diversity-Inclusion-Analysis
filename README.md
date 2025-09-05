@@ -57,6 +57,9 @@ groups
 This approach allowed for identifying areas where Pharma Group AG excels
 and areas where targeted initiatives are needed.
 
+![Banner](Images/Diversity%20-%20Inclusion%201.png)
+
+
 ------------------------------------------------------------------------
 
 ## Repository Structure
