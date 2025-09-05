@@ -1,9 +1,9 @@
 # HR-Diversity-Inclusion-Analysis
 
 ![GitHub repo
-size](https://img.shields.io/github/repo-size/outgouguamustapha/HR-Diversity-Inclusion-Analysis?logo=github)\
+size](https://img.shields.io/github/repo-size/outgouguamustapha/HR-Diversity-Inclusion-Analysis?logo=github)
 ![GitHub last
-commit](https://custom-icon-badges.demolab.com/github/last-commit/outgouguamustapha/HR-Diversity-Inclusion-Analysis?logo=history&logoColor=white)\
+commit](https://custom-icon-badges.demolab.com/github/last-commit/outgouguamustapha/HR-Diversity-Inclusion-Analysis?logo=history&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
 ![Banner](Images/Diversity - Inclusion 1.png)
