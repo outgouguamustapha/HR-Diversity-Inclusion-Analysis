@@ -6,8 +6,7 @@ size](https://img.shields.io/github/repo-size/outgouguamustapha/HR-Diversity-Inc
 commit](https://custom-icon-badges.demolab.com/github/last-commit/outgouguamustapha/HR-Diversity-Inclusion-Analysis?logo=history&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github)
 
-![Banner](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis/blob/main/README.md)
-
+[Banner](https://github.com/outgouguamustapha/HR-Diversity-Inclusion-Analysis/blob/main/Images/Diversity%20-%20Inclusion%201.png)
 ## Contents
 
 -   [Description](#description)\
