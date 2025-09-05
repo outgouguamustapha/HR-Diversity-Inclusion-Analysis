@@ -185,10 +185,10 @@ Here](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTljYjMtZTc4NC00YzJlLThkZTktMzk
 
 ### Dashboard Screenshots:
 
-![Diversity Overview](Images/01%20-%20Overview.png)\
-![Hiring Trends](Images/01%20-%20Overview.png)\
-![Promotion Analysis](Images/03%20-%20Promotion.png)\
-![Turnover & Performance](Images/04%20-%20Performance%20and%20Turnover.png)
+![Diversity Overview](Images/1%20-%20Overview.png)\
+![Hiring Trends](Images/2%20-%20Hiring.png)\
+![Promotion Analysis](Images/3%20-%20Promotion.png)\
+![Turnover & Performance](Images/4%20-%20Perfomance%20and%20Turnover.png)
 
 ------------------------------------------------------------------------
 
